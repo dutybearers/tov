@@ -1,0 +1,6 @@
+{
+  "name": "Touch of Valentine Homes",
+  "description": "Touch of Valentine Homes (TOV) — Luxury real estate agency presenting curated listings, virtual tours, private concierge, and property advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
